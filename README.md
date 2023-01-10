@@ -1,1 +1,1 @@
-# otus_2_PyTest
+# Урок №2. Введение в PyTest
